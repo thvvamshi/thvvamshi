@@ -3,7 +3,6 @@
 - ✨ Programming Skils at python,javascript,
 - 🌱 I’m currently learning Full stack 
 - 💞️ I’m looking to collaborate on Exporing New things
-- 📫 How to reach me bodavamshi2002@gmail.com
 - 🌐 My key Domain is Computer science and development
 - 😄 Pronouns: vamshi
 - ⚡ Fun fact: I think I am Introvert
