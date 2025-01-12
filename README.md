@@ -1,13 +1,11 @@
 - 👋 Hi, I’m @thvvamshi
-- 👀 I’m interested in Development and Exporing things
-- ✨ Programming Skils at python,javascript,
-- 🌱 I’m currently learning Full stack 
-- 💞️ I’m looking to collaborate on Exporing New things
-- 🌐 My key Domain is Computer science and development
-- 😄 Pronouns: vamshi
-- ⚡ Fun fact: I think I am Introvert
--   Learning more and getting much better everyday
-
+- 👀 I’m interested in Development and Exporing things.
+- ✨ Programming Skils at Python,Javascript etc..
+- 🌱 I’m currently learning Full Stack Dev
+- 🌐 My key Domain is Computer science and Development
+- 💞️Learning more and getting much better everyday
+- 😄 Pronouns: Vamshi
+- ⚡ Fun fact: I think I am Introvert!!
 
 <!---
 thvvamshi/thvvamshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
