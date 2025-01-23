@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Full Stack Dev
 - 🌐 My key Domain is Computer science and Development
 - 💞️Learning more and getting much better everyday
-- 😄 Pronouns: Vamshi
-- ⚡ Fun fact: I think I am Introvert!!
+- ⚡ Fun fact: I am Introvert!!
 
 <!---
 thvvamshi/thvvamshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
