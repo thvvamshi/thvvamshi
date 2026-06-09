@@ -6,18 +6,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bodavamshikumar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Bodavamshi%20Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/thvvamshi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-thvvamshi-181717?style=flat&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Warangal%2C%20India-555?style=flat&logo=googlemaps&logoColor=white" />
+  <a href="https://leetcode.com/u/bodavamshi/">
+    <img src="https://img.shields.io/badge/LeetCode-bodavamshi-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat" />
+  <img src="https://img.shields.io/badge/Location-India-555?style=flat&logo=googlemaps&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-SDE%20%7C%20Backend%20%7C%20Full--Stack-2ea44f?style=flat" />
 </p>
-
 <br/>
 
 I build scalable backend systems, event-driven platforms, and full-stack web applications. My focus is on distributed architecture, cloud-native deployment, and real-time systems — understanding how production-grade software works at scale, not just making it run.
