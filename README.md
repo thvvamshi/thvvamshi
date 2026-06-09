@@ -24,19 +24,6 @@ I build scalable backend systems, event-driven platforms, and full-stack web app
 
 ---
 
-## What I Build
-
-| Area | Technologies |
-|---|---|
-| **Distributed Systems** | Apache Kafka · Event-driven workers · Log streaming pipelines |
-| **Cloud-Native Platforms** | AWS ECS · AWS S3 · Docker · Container orchestration |
-| **Backend APIs** | Node.js · Express · REST · JWT auth · Zod validation |
-| **Real-Time Systems** | Socket.IO · WebSockets · Redis pub/sub |
-| **AI Applications** | LLM integration · Voice AI pipelines · Conversational memory |
-| **Full-Stack Products** | React · MERN stack · RBAC · CI/CD with GitHub Actions |
-
----
-
 ## Tech Stack
 
 **Languages**
