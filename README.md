@@ -14,11 +14,26 @@
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Warangal%2C%20India-555?style=flat&logo=googlemaps&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat" />
 </p>
 
 <br/>
 
 I build scalable backend systems, event-driven platforms, and full-stack web applications. My focus is on distributed architecture, cloud-native deployment, and real-time systems — understanding how production-grade software works at scale, not just making it run.
+
+---
+
+## What I Build
+
+| Area | Technologies |
+|---|---|
+| **Distributed Systems** | Apache Kafka · Event-driven workers · Log streaming pipelines |
+| **Cloud-Native Platforms** | AWS ECS · AWS S3 · Docker · Container orchestration |
+| **Backend APIs** | Node.js · Express · REST · JWT auth · Zod validation |
+| **Real-Time Systems** | Socket.IO · WebSockets · Redis pub/sub |
+| **AI Applications** | LLM integration · Voice AI pipelines · Conversational memory |
+| **Full-Stack Products** | React · MERN stack · RBAC · CI/CD with GitHub Actions |
 
 ---
 
@@ -87,7 +102,6 @@ I build scalable backend systems, event-driven platforms, and full-stack web app
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -100,7 +114,6 @@ I build scalable backend systems, event-driven platforms, and full-stack web app
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -118,7 +131,7 @@ I build scalable backend systems, event-driven platforms, and full-stack web app
 ---
 
 ### 👥 User Management Platform
-> Secure full-stack user management system with authentication, RBAC, Dockerized deployment, automated testing, and CI/CD pipelines.
+> Secure full-stack user management with authentication, RBAC, Dockerized deployment, automated testing, and CI/CD pipelines.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -153,16 +166,27 @@ I build scalable backend systems, event-driven platforms, and full-stack web app
 
 ---
 
-## GitHub Stats
+## Core Expertise
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thvvamshi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thvvamshi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+```
+✔ REST API design & authentication      ✔ Event-driven architecture
+✔ Database modelling (SQL & NoSQL)      ✔ Kafka stream processing
+✔ Docker & cloud deployment             ✔ Real-time via WebSockets
+✔ Role-based access control             ✔ System design & scalability
+✔ CI/CD with GitHub Actions             ✔ Full-stack with React + Node.js
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thvvamshi&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+## Open to Work
+
+> 🟢 **Actively seeking full-time SDE / Backend / Full-Stack roles**
+> 
+> Available for on-site (India) or remote opportunities.
+> 
+> ![SDE-1](https://img.shields.io/badge/Role-SDE--1-2ea44f?style=flat)
+> ![Backend](https://img.shields.io/badge/Role-Backend%20Engineer-2ea44f?style=flat)
+> ![Full-Stack](https://img.shields.io/badge/Role-Full--Stack%20Engineer-2ea44f?style=flat)
 
 ---
 
