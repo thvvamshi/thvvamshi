@@ -1,9 +1,7 @@
 <h1 align="center">Vamshi Kumar</h1>
 
 <p align="center">
-  <b>Software Developer · Backend & Distributed Systems · Cloud-Native Engineering</b>
-</p>
-
+<b>Software Developer · Backend Engineering · Distributed Systems · Cloud Infrastructure</b></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/bodavamshikumar">
     <img src="https://img.shields.io/badge/LinkedIn-Bodavamshi%20Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white" />
