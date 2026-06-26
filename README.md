@@ -76,83 +76,89 @@ I build scalable backend systems, event-driven platforms, and full-stack web app
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
 ---
-
 ## Featured Projects
 
 ### 🚀 Event-Driven Cloud Deployment Platform
-> Vercel-inspired platform with automated container builds, distributed build workers, real-time Kafka log streaming, and cloud-native infrastructure on AWS ECS.
 
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![AWS ECS](https://img.shields.io/badge/AWS_ECS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+> Vercel-inspired cloud-native deployment platform with automated container builds, distributed build workers, real-time Kafka log streaming, AWS ECS orchestration, S3-based static hosting, and deployment monitoring.
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat\&logo=apachekafka\&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/AWS_ECS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat\&logo=amazons3\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat\&logo=clickhouse\&logoColor=black)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat\&logo=socketdotio\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat\&logo=prisma\&logoColor=white)
+
+---
+
+### 🎵 Real-Time Audio Streaming Platform
+
+> Full-stack music streaming platform featuring real-time chat, live listening activity, album management, analytics dashboard, and secure authentication.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat\&logo=socketdotio\&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat)
+
+---
+
+### 📝 Veda AI Exam Engine
+
+> AI-powered assessment platform for generating question papers and exams with asynchronous processing, Redis queues, BullMQ workers, LLM integration, and real-time updates.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-EA4335?style=flat)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat\&logo=socketdotio\&logoColor=white)
 
 ---
 
 ### 🎙️ Voice AI Healthcare Assistant
-> Real-time multilingual assistant for conversational appointment booking with a voice AI pipeline, conversational memory, and live audio streaming.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+> Real-time multilingual healthcare assistant for conversational appointment booking using speech recognition, LLMs, conversational memory, WebSockets, and live audio streaming.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat\&logo=socketdotio\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat\&logo=prisma\&logoColor=white)
+
+---
+
+### 📄 Invoice Intelligence
+
+> AI-powered document intelligence platform for extracting, organizing, and managing invoice, product, and customer data from PDFs, images, and spreadsheets.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat\&logo=redux\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-4285F4?style=flat)
+![PDF](https://img.shields.io/badge/PDF_Processing-EA4335?style=flat)
+![Multer](https://img.shields.io/badge/Multer-FF9800?style=flat)
 
 ---
 
 ### 📊 Team Task Manager
-> Production-ready MERN project management platform with RBAC, analytics dashboards, task assignment workflows, and full Swagger API documentation.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+> Production-ready MERN project management platform with role-based access control, task assignment workflows, analytics dashboards, JWT authentication, and comprehensive Swagger API documentation.
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat\&logo=jsonwebtokens\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat\&logo=swagger\&logoColor=black)
 
-### 👥 User Management Platform
-> Secure full-stack user management with authentication, RBAC, Dockerized deployment, automated testing, and CI/CD pipelines.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
----
-
-### 💰 Finance Management API
-> Backend for financial record management and analytics with RBAC, Zod schema validation, and documented REST APIs.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-
----
-
-### 📅 Mini Event Platform
-> Full-stack event management app with event creation, RSVP tracking, image uploads via Cloudinary, and attendee ownership controls.
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
----
 
 ## Core Expertise
 
